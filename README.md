@@ -1,2 +1,2 @@
 # maptool-info
-MapTool Information Fetched on Startup
+This repository tracks and provides a location for MapTool to download information such as wiki link, welcome information.
