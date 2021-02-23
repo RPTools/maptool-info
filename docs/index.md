@@ -1,2 +1,2 @@
 ## Whats new
-[English](whats-new-en.md)
+[English](whats-new/whats-new-en.md)
