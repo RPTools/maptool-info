@@ -3,4 +3,4 @@ This stuff is mostly fetched by MapTool automatically. Probably no one will ever
 
 
 ### Whats New Pages
-[English](whats-new/whats-new-en.md)
+[Whats New](whats-new/whats-new.md)
