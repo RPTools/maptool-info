@@ -1,5 +1,5 @@
 files:
   - source: /docs/index.md
-    translation: '%two_letters_code%/%original_path%/%original_file_name%'
+    translation: /%two_letters_code%/%original_path%/%original_file_name%
   - source: /docs/whats-new/
-    translation: '%two_letters_code%/%original_path%/%original_file_name%'
+    translation: /%two_letters_code%/%original_path%/%original_file_name%
