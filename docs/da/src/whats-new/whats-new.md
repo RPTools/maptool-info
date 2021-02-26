@@ -7,5 +7,5 @@ MapTool 1.8.4 Has been released with minor bug fixes... In other news this is mo
 * Map Explorer no longer displays Tokens players don't own if Strict Token Ownership is on
 * Replaced "new version" check with this what's new popup.
 
-[Release Notes]()
-[Downloads]()
+
+[Release Notes]() [Downloads]()
